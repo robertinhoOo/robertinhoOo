@@ -3,7 +3,7 @@
 - 🔭 Atualmente sou estudante de sistemas para internet!
 - 🌱 Atualmente estudando HTML!
 - 😄 Pronouns: ele
-- ⚡ Fun fact: sou receptivo, seja bem vindo.
+- ⚡ Fun fact: sou receptivo, seja bem-vindo.
 
 
 <div align="center">
