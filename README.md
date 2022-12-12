@@ -1,7 +1,7 @@
 ### oi, RobertinhoOo aqui, prazer!
 
 - 🔭 Atualmente sou estudante de sistemas para internet!
-- 🌱 Atualmente estudando HTML!
+- 🌱 Atualmente estudando HTML e CSS!
 - 😄 Pronouns: ele
 - ⚡ Fun fact: sou receptivo, seja bem-vindo.
 
